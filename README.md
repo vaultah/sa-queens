@@ -6,6 +6,7 @@ Example output for the eight queens puzzle:
 
 ```
 Initial arrangement:
+
 QueenBoard(8x8, 8 queens,
 - - - - - - - -
 - - - - - - - -
